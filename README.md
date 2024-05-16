@@ -1,14 +1,14 @@
 # Phonebook
 
-Phonebook is a C program to Try C language.
+Phonebook is a C program for full user-definition-type & print it.
 
 ## Installation
 
-Before run this program on text editor you must install C compiler.
+Before running this program on the text editor you must install the C compiler.
 
 1 - install [MinGW](https://github.com/msys2/msys2-installer/releases/download/2024-01-13/msys2-x86_64-20240113.exe).
 
-2 - When select Finish. This will open a MSYS2 terminal window for you.
+2 - When select Finish. This will open an MSYS2 terminal window for you.
 
 3 - In this terminal, install the MinGW-w64 toolchain by running the following command:
 
