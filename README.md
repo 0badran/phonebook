@@ -1,6 +1,6 @@
 # Phonebook
 
-Phonebook is a C program for full user-definition-type & print it.
+Phonebook is a C program for full user-defined-type & print it.
 
 ## Installation
 
